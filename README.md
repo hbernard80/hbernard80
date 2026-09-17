@@ -8,7 +8,7 @@ Développeur avec **20 ans d'expérience dans la conception et le développement
 
 J'interviens sur la conception backend, les API REST, la modélisation des données, la qualité du code et l'architecture d'applications Symfony.
 
-Je dispose d'un titre professionnel bac + 2 en développement web et d'une certification en IA/Data anlyse (_Piloter la stratégie de collecte, de nettoyage et d'analyse des données de l'entreprise_, bac + 5 partiel).
+Je dispose d'un titre professionnel bac + 2 en développement web et d'une certification en IA/Data analyse (_Piloter la stratégie de collecte, de nettoyage et d'analyse des données de l'entreprise_, bac + 5 partiel).
 
 ### 🇬🇧 PHP / Symfony Backend Developer / Trainer
 
