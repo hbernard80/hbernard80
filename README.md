@@ -27,7 +27,7 @@ Je dispose d'un titre professionnel bac + 2 en développement web et d'une certi
 
 **Backend**
 
-`PHP 8` · `Symfony 7` · `Doctrine ORM` · `API Platform` · `REST API` · `MySQL`
+`PHP 8` · `Symfony 7` · `Doctrine ORM` · `API Platform` · `REST API` · `SQL` (`MySQL`, `SQL Server`), `Merise`, `UML` 
 
 **Qualité & tests**
 
@@ -114,7 +114,12 @@ Cette expérience complète mon activité de développeur par une forte connaiss
 
 Je développe également mes compétences autour de l'intégration de l'IA dans les applications :
 
-`Python` · `RAG` · `AI Agents` · `MCP` · `LLM` · `Automation` · `Automation` 
+- Python
+- IA génératives, prompting
+- RAG, AI Agents, MCP etc.
+- MLFlow, DVC
+- Statistiques, Pandas, Numpy, dataviz (Matplotlib, Seaborn), Power BI
+- Machine learning (algos, Scikit-learn) 
 
 L'objectif est notamment d'explorer l'intégration de ces technologies dans des architectures backend et des applications métier.
 
