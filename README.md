@@ -15,7 +15,7 @@ J'interviens sur la conception backend, les API REST, la modélisation des donn�
 
 ### 📍 Localisations
 
-* Amiens : présentiel, hybride. 
+* Amiens (domicile) : présentiel, hybride. 
 * Paris, Lille et France : 100% remote ou hybride minimum 2 jours de TT.
 * International : 100% remote. 
 
