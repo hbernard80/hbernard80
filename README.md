@@ -2,7 +2,7 @@
 
 > 📆 09/2026 : je recherche activement un CDI (ou CDD long) à temps plein, voire mission freelance (portage salarial ou possibilité création d'une micro-entreprise).   
 
-### 🇫🇷 Développeur web fullstack PHP Symfony, APIs + formateur + IA /Data
+### 🇫🇷 Développeur web fullstack PHP Symfony, APIs + formateur + IA / Data
 
 Développeur avec **20 ans d'expérience dans la conception et le développement d'applications web et d'API**, dans l'écosystème PHP.
 
