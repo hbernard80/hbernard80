@@ -1,6 +1,6 @@
 # Hervé BERNARD
 
-> 📆 09/2026 : je recherche activement un CDI (ou CDD long) à temps plein, voire mission freelance (portage salarial ou possibilité création d'une micro-entreprise).   
+> 📆 09/2026 : je recherche activement un CDI (ou CDD long) à temps plein, voire mission freelance (portage salarial ou possibilité création d'une micro-entreprise). Disponibilité immédiate.   
 
 ### 🇫🇷 Développeur web fullstack PHP Symfony, APIs + formateur + IA / Data
 
