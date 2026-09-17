@@ -1,14 +1,16 @@
 # Hervé Bernard
 
-### 🇫🇷 [FR] Développeur PHP Symfony API Platform + formateur 
+### 🇫🇷 Développeur web fullstack PHP Symfony, APIs + formateur + IA /Data
 
 Développeur avec **20 ans d'expérience dans la conception et le développement d'applications web et d'API**, dans l'écosystème PHP.
 
 J'interviens sur la conception backend, les API REST, la modélisation des données, la qualité du code et l'architecture d'applications Symfony.
 
-### 🇬🇧 [EN] PHP / Symfony Backend Developer / Trainer
+Je dispose d'un titre professionnel bac + 2 en développement web et d'une certification en IA/Data anlyse (_Piloter la stratégie de collecte, de nettoyage et d'analyse des données de l'entreprise_, bac + 5 partiel).
 
-* Senior PHP/Symfony developer
+### 🇬🇧 PHP / Symfony Backend Developer / Trainer
+
+* Senior PHP/Symfony developer and trainer
 * +20 years of web development experience
 * REST APIs / Doctrine / API Platform / Testing / Docker / CI/CD
 * Based in France — open to remote opportunities
@@ -100,11 +102,11 @@ Il intègre notamment :
 
 ➡️ [Voir le projet sf74-bootstrap](https://github.com/hbernard80/sf74-bootstrap)
 
-## Transmission et formation
+## Formateur
 
-J'ai également plusieurs années d'expérience dans la **formation professionnelle en développement web**, sur les titres RNCP _développeur web et web mobile_ (DWWM) et concepteur-développeur d'applications_ (CDA).
+J'ai également 7 ans d'expérience dans la **formation professionnelle en développement web**, sur les titres RNCP _développeur web et web mobile_ (DWWM) et concepteur-développeur d'applications_ (CDA).
 
-Cette expérience complète mon activité de développeur par une forte pratique de la transmission, de la documentation technique et de l'accompagnement de développeurs.
+Cette expérience complète mon activité de développeur par une forte connaissance de la pédagogie, des bonnes pratiques métier du développement (clean code, SOLID, documentation etc.) et de l'accompagnement de développeurs.
 
 ## 🔬 Sujets actuellement explorés
 
@@ -114,11 +116,9 @@ Je développe également mes compétences autour de l'intégration de l'IA dans 
 
 L'objectif est notamment d'explorer l'intégration de ces technologies dans des architectures backend et des applications métier.
 
-Je dispose d'une certification de data analyst de niveau 7.
-
 ## 📫 Contact
 
-Vous pouvez me contacter via mon profil [https://www.linkedin.com/in/hbernard80](https://www.linkedin.com/in/hbernard80).
+Contactez-moi via [LinkedIn](https://www.linkedin.com/in/hbernard80).
 
 ---
 
