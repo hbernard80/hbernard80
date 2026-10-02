@@ -106,9 +106,11 @@ Il intègre notamment :
 
 ## Formateur
 
-J'ai également 7 ans d'expérience dans la **formation professionnelle en développement web**, sur les titres RNCP _développeur web et web mobile_ (DWWM) et concepteur-développeur d'applications_ (CDA).
+J'ai également 7 ans d'expérience dans la **formation professionnelle en développement web**, sur les titres RNCP _développeur web et web mobile (DWWM) et concepteur-développeur d'applications (CDA).
 
 Cette expérience complète mon activité de développeur par une forte connaissance de la pédagogie, des bonnes pratiques métier du développement (clean code, SOLID, documentation etc.) et de l'accompagnement de développeurs.
+
+➡️ [Voir un exemple de cours](https://github.com/hbernard80/cours-api)
 
 ## 🔬 Sujets actuellement explorés
 
@@ -125,7 +127,7 @@ L'objectif est notamment d'explorer l'intégration de ces technologies dans des 
 
 ## 📫 Contact
 
-Contactez-moi via [LinkedIn](https://www.linkedin.com/in/hbernard80).
+➡️ Contactez-moi via [LinkedIn](https://www.linkedin.com/in/hbernard80).
 
 ---
 
