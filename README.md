@@ -112,8 +112,8 @@ Cette expérience complète mon activité de développeur par une forte connaiss
 
 Exemples de cours :
 
-➡️ [10 piges en SQL (MySQL)](https://github.com/hbernard80/10-pieges)
-➡️ [API](https://github.com/hbernard80/cours-api)
+- ➡️ [10 pièges en SQL (MySQL)](https://github.com/hbernard80/10-pieges)
+- ➡️ [API](https://github.com/hbernard80/cours-api)
 
 ## 🔬 Sujets actuellement explorés
 
