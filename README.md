@@ -1,6 +1,6 @@
 # Hervé BERNARD
 
-> 📆 09/2026 : je recherche activement un CDI (ou CDD long) de développeur à temps plein, voire mission freelance (portage salarial ou possibilité création d'une micro-entreprise). Disponibilité immédiate.   
+> 📆 Octobre 2026 : je recherche activement un CDI (ou CDD long) de développeur ou de formateur à temps plein, voire mission freelance (portage salarial ou possibilité création d'une micro-entreprise). Disponibilité immédiate.   
 
 ### 🇫🇷 Développeur web fullstack PHP Symfony, APIs + formateur + IA / Data
 
@@ -110,7 +110,10 @@ J'ai également 7 ans d'expérience dans la **formation professionnelle en déve
 
 Cette expérience complète mon activité de développeur par une forte connaissance de la pédagogie, des bonnes pratiques métier du développement (clean code, SOLID, documentation etc.) et de l'accompagnement de développeurs.
 
-➡️ [Voir un exemple de cours](https://github.com/hbernard80/cours-api)
+Exemples de cours :
+
+➡️ [10 piges en SQL (MySQL)](https://github.com/hbernard80/10-pieges)
+➡️ [API](https://github.com/hbernard80/cours-api)
 
 ## 🔬 Sujets actuellement explorés
 
