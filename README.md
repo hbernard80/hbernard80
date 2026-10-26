@@ -49,8 +49,9 @@ Application RAG de gestion de tickets de support informatique.
 
 **Stack :**
 
-`PHP 8.5` · `Ollama` · `Qwen` · `LLPhant` · `Qdrant` · `Langfuse` . `MySql` · `Docker`
+`PHP 8.5.12` · `Ollama` · `Qwen` · `LLPhant` · `Qdrant` · `Langfuse` . `MySql` · `Docker`
 
+➡️ [Voir le projet](https://github.com/hbernard80/helpdesk-ai)
 
 ### Symfony 7 / API Platform
 
