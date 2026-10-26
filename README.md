@@ -43,6 +43,15 @@ Je dispose d'un titre professionnel bac + 2 en développement web et d'une certi
 
 ## 🚀 Projets principaux
 
+### helpdesk-ai
+
+Application RAG de gestion de tickets de support informatique.
+
+**Stack :**
+
+`PHP 8.5` · `Ollama` · `Qwen` · `LLPhant` · `Qdrant` · `Langfuse` . `MySql` · `Docker`
+
+
 ### Symfony 7 / API Platform
 
 Application backend développée avec **Symfony 7.4 et API Platform**, utilisée comme projet de démonstration des fonctionnalités modernes de Symfony et de la conception d'API REST.
