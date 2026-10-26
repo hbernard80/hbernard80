@@ -51,7 +51,11 @@ Application RAG de gestion de tickets de support informatique.
 
 `PHP 8.5.12` · `Ollama` · `Qwen` · `LLPhant` · `Qdrant` · `Langfuse` . `MySql` · `Docker`
 
-➡️ [Voir le projet](https://github.com/hbernard80/helpdesk-ai)
+> 📆 26/10/2026 : Langfuse n'est pas encore intégré. 
+
+➡️ [Voir le projet helpdesk-ai](https://github.com/hbernard80/helpdesk-ai)
+
+---
 
 ### Symfony 7 / API Platform
 
@@ -75,6 +79,8 @@ Fonctionnalités mises en œuvre ou étudiées dans le projet :
 
 ➡️ [Voir le projet sf74-api](https://github.com/hbernard80/sf74-api)
 
+---
+
 ### TaskFlow — TypeScript
 
 Application pédagogique de gestion de tâches réalisée en **TypeScript strict**, avec consommation d'une API REST.
@@ -97,6 +103,8 @@ Le projet met notamment en œuvre :
 
 ➡️ [Voir le projet TaskFlow](https://github.com/hbernard80/taskflow)
 
+---
+
 ### Symfony Web Application
 
 Projet Symfony servant de base à la réalisation d'applications web modernes.
@@ -113,6 +121,8 @@ Il intègre notamment :
 - tests.
 
 ➡️ [Voir le projet sf74-bootstrap](https://github.com/hbernard80/sf74-bootstrap)
+
+---
 
 ## Formateur
 
